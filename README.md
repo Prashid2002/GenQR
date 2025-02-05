@@ -25,7 +25,7 @@ A simple **Android** app built using **Android Studio, Java, and ZXing** for gen
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/qr-generator-scanner-app.git
+git clone https://github.com/Prashid2002/GenQR.git
 ```
 
 ### 2️⃣ Open the Project in Android Studio
